@@ -17,7 +17,7 @@ function App() {
         <div className="hidden lg:block">
           <NavigationDesktop />
         </div>
-        <div className="w-full lg:pt-[127.5px]">
+        <div className="w-full lg:pt-[80px]">
           <About />
           <Vision />
           <Values />
