@@ -1,0 +1,112 @@
+@font-face {
+  font-family: Eczar;
+  src: local(Eczar-SemiBold),
+    url("../../assets/fonts/Eczar-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: Poppins;
+  src: local(PoppinsMedium),
+    url("../../assets/fonts/PoppinsMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: Poppins;
+  src: local(PoppinsSemiBold),
+    url("../../assets/fonts/PoppinsSemiBold.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: RobotoMono;
+  src: local(RobotoMono-Regular),
+    url("../../assets/fonts/RobotoMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+.Text-Style {
+  font-family: RobotoMono;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+.Text-Style-2 {
+  font-family: Eczar;
+  font-size: 120px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: transparent;
+}
+.Text-Style-3 {
+  font-family: Eczar;
+  font-size: 99px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: normal;
+  color: transparent;
+}
+.Text-Style-4 {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.58;
+  letter-spacing: 3px;
+  color: var(--dark);
+}
+.Text-Style-5 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.46;
+  letter-spacing: 0.46px;
+  color: var(--dark);
+}
+.Text-Style-6 {
+  font-family: RobotoMono;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+.Text-Style-7 {
+  font-family: Eczar;
+  font-size: 73px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.77;
+  letter-spacing: normal;
+  color: transparent;
+}
+.Text-Style-8 {
+  font-family: Eczar;
+  font-size: 68px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: normal;
+  color: transparent;
+}

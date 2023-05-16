@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom base styles */
+@import "./custom-base-styles.css";
+
+/* custom components */
+@import "./custom-components.css";
+
+/* custom utilities */
+@import "./custom-utilities.css";

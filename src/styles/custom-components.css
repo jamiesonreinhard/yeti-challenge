@@ -1,0 +1,13 @@
+.outline-title {
+    width: 100%;
+    -webkit-text-stroke: 1px #1e252c;
+    font-family: Eczar;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    color: transparent;
+    text-align: left;
+    z-index: 50;
+}
